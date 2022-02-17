@@ -78,15 +78,16 @@ body, html {
 <p>เคยศึกษาที่: โรงเรียนบ้านคลองปริง/โรงเรียนบ่อทองวงศ์จันทร์วิทยา</p>
 <div> 
     <a href="#"><i class="fa fa-linkedin"></i></a>  
-    <a href="https://web.facebook.com/?_rdc=1&_rdr"><i class="fa fa-facebook"></i></a> 
+    <a href="https://web.facebook.com/profile.php?id=100025111754098"><i class="fa fa-facebook"></i></a> 
 </div>
 </div>
 <div>
   <div>
   <img style="width:20%" src="picture_chayut/5.gif" alt="">
-  <img style="width:20%" src="picture_chayut/6.gif" alt="">
+  <img style="width:15%" src="picture_chayut/6.gif" alt="">
 </div>
 </div>
+<img style="width:10%" src="picture_chayut/7.gif" alt="">
 </div>
 </div>
 </body>
