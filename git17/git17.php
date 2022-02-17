@@ -54,7 +54,7 @@ button:hover, a:hover {
   <p class="title">ที่อยู่ : ทุ่งขวาง พนัสนิคม ชลบุรี</p>
   <p>งานอดิเรก</p>
   <p class="title">ฟังเพลง เล่นเกมส์</p>
-  <p>เพื่อนสนิท</p>
+  <p><img src="1.gif"  style="width:10%; margin-top:15px" >เพื่อนสนิท<img src="1.gif"  style="width:10%; margin-top:15px" ></p>
   <p class="title">เท่ง เด่น อ้วน</p>
   
   <p>
