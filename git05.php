@@ -23,11 +23,11 @@ body, html {
 
 .bg-image {
   /* The image used */
-  background-image: url("picture_chayut/3.jpg");
+  background-image: url("https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif");
   
   /* Add the blur effect */
   filter: blur(8px);
-  -webkit-filter: blur(8px);
+  -webkit-filter: blur(6px);
   
   /* Full height */
   height: 100%; 
@@ -44,7 +44,7 @@ body, html {
   background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
   color: white;
   font-weight: bold;
-  border: 3px solid #f1f1f1;
+  border: 1px solid #f1f1f1;
   position: absolute;
   top: 50%;
   left: 50%;
