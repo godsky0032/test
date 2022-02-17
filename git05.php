@@ -65,14 +65,15 @@ body, html {
 <div class="bg-image"></div>
 <div class="container">
 <div class="bg-text">
-  <h2 style="text-align: center;">ประวัติส่วนตัว</h2>
+  <h2 style="text-align: center;">  <img style="width:10%" src="picture_chayut/6.gif" alt="">ประวัติส่วนตัว <img style="width:10%" src="picture_chayut/11.gif" alt=""></h2>  
   <div style="text-align: left"class="float-left">
-  <img style="border: 5px solid #555;" src="picture_chayut/1.jpg" alt="">
+  <img style="border: 5px solid white;" src="picture_chayut/1.jpg" alt="">
 </div>
+<img style="width:10%" src="picture_chayut/13.gif" alt="">
 <div class="float-left" style="margin-left:10px">
-<p>ชื่อ: นาย ชยุต ชะนวน (เด่น)</p>
-<p>เพื่อนสนิท: เท่ง/อ้วน/เซฟ</p>
-<p>งานอดิเรก: วาดรูป</p>
+<p>ชื่อ: นาย ชยุต ชะนวน (เด่น)<img style="width:3%" src="picture_chayut/7.gif" alt=""></p>
+<p>เพื่อนสนิท: เท่ง/อ้วน/เซฟ<img style="width:3%" src="picture_chayut/8.gif" alt=""></p>
+<p>งานอดิเรก: วาดรูป<img style="width:3%" src="picture_chayut/9.gif" alt=""></p>
 <p>อาหารที่ชอบ: ข้าว/ไก่ทอด/ผัดกระเพรา</p>
 <p>ศึกษาอยู่ที่: วิทยาลัยเทคนิคชลบุรี</p>
 <p>เคยศึกษาที่: โรงเรียนบ้านคลองปริง/โรงเรียนบ่อทองวงศ์จันทร์วิทยา</p>
@@ -84,10 +85,8 @@ body, html {
 <div>
   <div>
   <img style="width:20%" src="picture_chayut/5.gif" alt="">
-  <img style="width:15%" src="picture_chayut/6.gif" alt="">
 </div>
 </div>
-<img style="width:10%" src="picture_chayut/7.gif" alt="">
 </div>
 </div>
 </body>
